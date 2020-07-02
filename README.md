@@ -1,0 +1,2 @@
+# Constrained-Longest-Common-Sub-sequences-using-Dynamic-Programming
+My project of "Design and Analysis of Algorithms"  using efficient algorithms to find the Longest Common Sub-Sequences and Constrained Longest Common Sub-Sequences (String Inclusion and Constraint Inclusion). The best way to od it was with Dynamic Programming and then few alterations I used a research paper and then Implemented the Algorithm provided in it. Testify it with 1000+ different Inputs. I
